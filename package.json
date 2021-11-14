@@ -1,0 +1,17 @@
+{
+  "name": "api-assignment",
+  "version": "1.0.0",
+  "description": "api assignment",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  },
+ 
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Vision",
+  "license": "ISC"
+}
